@@ -19,7 +19,7 @@ jobs:
 
       - name: Generate files
         run: |
-          echo "Generated content" > new_file.txt
+          echo "Generated content" >> new_file.txt
 
       - name: Commit and push changes
         run: |

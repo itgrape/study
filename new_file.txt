@@ -1,3 +1,7 @@
 origin content
 Generated content
+<<<<<<< HEAD
 jfdlj
+=======
+Generated content
+>>>>>>> 78d49eb6d1ec0d14a60eadc97a7b9bd11777a4e7
